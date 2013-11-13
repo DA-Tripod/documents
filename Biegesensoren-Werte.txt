@@ -1,0 +1,8 @@
+Biegesensor-Werte bei einem Vorwiderstand von 10 kOhm:
+
+Sensor 5:
+	- gerade: 150
+	- gebogen: 650
+
+Sensor 4: 
+	

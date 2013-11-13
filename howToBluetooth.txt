@@ -1,0 +1,11 @@
+How to establish a bluetooth connection:
+
+1.) Connect the bluetooth module to the arduinos
+	1.1) Connect TX-0 to the D2 Port and RX-1 to D3 Port on the Arduino
+2.) Load the programme "config_bluetooth_module" on both arduinos.
+3.) Connect the arduinos in the command line by entering "C,<mac address>"
+4.) The green "connect" leds should switch on
+5.) Type something in the terminal
+6.) Each other should see what the opposite arduino just wrote
+
+Tip: You can write data via the command "bluetooth.print()"

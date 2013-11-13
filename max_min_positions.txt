@@ -1,0 +1,21 @@
+Maximale Servopositionen der Roboterhand
+
+Info: 	Die aufgelisteten Werte sind die minimalen bzw. maximalen Mitgabewerte der Funktion
+	write() aus der Arduino Servo Library!
+
+Zeigefinger:
+50-104
+
+Mittelfinger:
+50-102
+
+Ringfinger
+88-122
+
+Kleiner Finger
+103-120
+
+Daumen (keine Zwischenstufen --> 1|0)
+89-179
+
+
