@@ -5,4 +5,12 @@ Sensor 5:
 	- gebogen: 650
 
 Sensor 4: 
+
+.
+.
+.
+
+Sensor 1:
+	- gerade: 0
+	- gebogen: 280
 	
